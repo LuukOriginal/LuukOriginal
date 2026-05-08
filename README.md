@@ -55,35 +55,36 @@ I enjoy working on:
 </div>
 
 ---
+# 🧩 What I Build
 
-# 🚀 Featured Work
+I mainly work on full-stack web applications, but I al — focused on scalable systems, real-time apps, and clean architecture.
 
-<table>
-<tr>
-<td width="50%">
+---
 
-## 🎮 Roblox Development
+## 🌐 Web & Product Engineering
 
-- Reusable architectures
-- Complex UI systems
-- Developer tooling
-- Scalable game systems
+- Full-stack applications with realtime features and strong UX focus  
+- PWA-style products built for mobile-first experiences  
+- Backend systems with structured APIs and scalable data flows  
 
-</td>
+**Recent work:**
+- SnapParty - realtime event photo sharing platform (in active development)
+---
 
-<td width="50%">
+## 💼 Professional Experience
 
-## 🌐 Web Apps
+- 2 years at a software company, building custom software for multiple companies  
+- Worked across full-stack systems (frontend, backend, infrastructure)  
+- Contributed to production software used in real business environments  
+- Built features for an education software platform used by secondary schools to manage and validate exam programs and assessment structures.
+---
 
-- Full-stack products
-- Realtime experiences
-- PWAs
-- Infrastructure-heavy systems
+## 🎮 Roblox & Internal Systems
 
-</td>
-</tr>
-</table>
-
+- Scalable Roblox architectures with modular system design  
+- UI systems and developer tooling frameworks  
+- Internal framework development (Krypton) and cli tooling (Krypton-Cli) for reusable architecture patterns  
+- Early-stage platform work (Bloxgrid) for Roblox development workflows
 ---
 
 # 🔥 Activity
