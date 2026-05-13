@@ -50,7 +50,7 @@ I enjoy working on:
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,docker,npm&theme=dark)](#)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,npm&theme=dark)](#)
 
 </div>
 
