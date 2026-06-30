@@ -57,7 +57,7 @@ I enjoy working on:
 ---
 # 🧩 What I Build
 
-I mainly work on full-stack web applications, but I al — focused on scalable systems, real-time apps, and clean architecture.
+I mainly work on full-stack web applications, with a focus on scalable systems, real-time apps, and clean architecture.
 
 ---
 
